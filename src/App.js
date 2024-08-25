@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React v3
+          Learn React v3 - checking with pm2
 
         </a>
       </header>
